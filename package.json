@@ -1,0 +1,26 @@
+{
+    "name": "吴孟雨",
+    "version": "1.0.0",
+    "description": "人生不只有代码，还有诗和远方",
+    "keywords": [
+        "note"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "WuMengYu <2683447714@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "Apache",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "首页.md",
+            {
+              "react":[
+                "startReact.md"
+              ]
+            }
+        ]
+    }
+}

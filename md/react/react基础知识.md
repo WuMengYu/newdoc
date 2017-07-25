@@ -51,3 +51,6 @@ ReactDOM.unmountComponentAtNode: (container)
 ReactDOMServer.renderToString
 ReactDOMServer.renderToStaticMarkup
 ```
+## 2. jsx语法
+
+<span>类似 xml 的语法，用来描述组件树</span>
